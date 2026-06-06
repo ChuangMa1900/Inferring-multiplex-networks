@@ -1,3 +1,5 @@
-This project implements the methods and experiments described in the paper “Inferring Structure and Dynamics of Multiplex Networks from Single-Type Observations.”
+This project implements the methods and experiments described in the paper:
 
-For any questions regarding the project, its usage, or the paper itself, please feel free to contact the author at chuang_m@126.com
+Chuang Ma, Jie Fu, Hai-Feng Zhang, and Guanrong Chen, “Inferring structure and dynamics of multiplex networks from single-type observations,” *Physical Review E* **112**, 064310 (2025).
+
+For questions about the project, its usage, or the paper, please contact Chuang Ma at [chuang_m@126.com](mailto:chuang_m@126.com).
